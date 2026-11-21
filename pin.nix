@@ -1,9 +1,9 @@
 # Auto-managed by `nix run .#update-version`. Manual edits will be overwritten by the next bump.
 {
   hashes = {
-    aarch64-darwin = "sha256-U1W6p7mU2iZB+e1r/2rHt9Bs/yd5Y1cEs6rib9v8QS8=";
-    aarch64-linux = "sha256-0hKBdeahOXsSXpiBP5zVoOcntrdcoxL1TO9hvOYRtU0=";
-    x86_64-linux = "sha256-UbVusf/8EEZRAWz0QOWv/8k8Ah4aSP4mQQYPvZICq/s=";
+    aarch64-darwin = "sha256-H49iY/DYEreWCGw1O1s4gdT75TUs/ZXJyfuOPkwGCBA=";
+    aarch64-linux = "sha256-QjwRx3DUJqQPs9IoojnO9CbE8UoCufr0qnGXWIUzVXg=";
+    x86_64-linux = "sha256-wjvcP5FfAFPayXDfsyvnCgHAZA+k52MUJ4plq1lIde8=";
   };
-  version = "0.28.0";
+  version = "0.27.3";
 }
